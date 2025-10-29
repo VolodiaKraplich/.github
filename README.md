@@ -1,5 +1,3 @@
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ## 🛠️ My Tech Stack
